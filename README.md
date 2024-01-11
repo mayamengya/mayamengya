@@ -1,7 +1,5 @@
 # Hi, I'm Maya (she/her) 👋
 
-## 👨‍💻 Welcome to My GitHub Profile!
-
 ### 🌐 About Me
 I'm a current computer science student passionate about exploring the intersections of different fields and applying technology to tackle complex challenges. My journey in the tech world is driven by a strong interest in interdisciplinary work and a dedication to making a positive impact.
 
