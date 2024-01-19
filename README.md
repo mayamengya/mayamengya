@@ -4,7 +4,7 @@
 I'm a computer science student passionate about exploring the intersections of different fields and applying technology to tackle complex challenges. My journey in the tech world is driven by a strong interest in interdisciplinary work and a dedication to making a positive impact.
 
 ### 🌍 Tech for Good
-My background in climate change research and advocacy has inspired me to seek out innovative solutions to environmental issues. I am excited to leverage my technical skills to make a positive impact in the realm of environmental sustainability.
+My background in climate change research and advocacy has inspired me to seek out innovative solutions to environmental and social issues. I am excited to leverage my technical skills to make a positive impact in the realm of environmental sustainability and social impact.
 
 ## 📫 Let's Connect!
 - LinkedIn: www.linkedin.com/in/mayadong/
